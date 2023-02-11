@@ -2,8 +2,7 @@ The actual datasets are too big for Github and they are provided through links t
 Please refer to the corresponding folders for details.
 
 Citation
-H.H.S. Lam [1]
-[1] Department of Electrical Engineering, City University of Hong Kong
+H.H.S. Lam, Department of Electrical Engineering, City University of Hong Kong
 
 
 
