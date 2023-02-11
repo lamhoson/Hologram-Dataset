@@ -2,8 +2,8 @@ The actual datasets are too big for Github and they are provided through links t
 Please refer to the corresponding folders for details.
 
 Citation
-H.H.S. Lam [1], Yanmin Zhu [2]
+H.H.S. Lam [1]
 [1] Department of Electrical Engineering, City University of Hong Kong
-[2] Department of Electrical and Electronic Engineering, The University of Hong Kong
+
 
 
